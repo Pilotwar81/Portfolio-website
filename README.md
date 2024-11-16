@@ -24,7 +24,7 @@ This portfolio leverages simple and robust tools:
 - 🌐 **HTML5** for structured content.  
 - 🎨 **CSS3** for custom styling and responsiveness.  
 - 🧪 **JavaScript** for interactivity and animations.  
-- ✂️ **Optional Frameworks**: Easily integrate Bootstrap, TailwindCSS, or AOS for advanced styling.  
+- ✂️ **Optional Frameworks**: Easily integrate Bootstrap for advanced styling.  
 
 ---
 
@@ -61,26 +61,6 @@ Make this portfolio uniquely yours!
 3. **Add Your Projects**:  
    - Locate the projects section in `index.html`.  
    - Add new project cards with descriptions, images, and links.  
-
-4. **Enhance Animations**:  
-   - Utilize libraries like **AOS** for advanced scroll effects.  
-
----
-
-## 📄 Folder Structure  
-
-Here's a breakdown of the project's organization:  
-
-```
-Portfolio-website/
-├── assets/            # Images, icons, and other media  
-├── css/               # Styling files  
-│   ├── style.css      # Main stylesheet  
-├── js/                # JavaScript files for interactivity  
-├── index.html         # Main HTML file  
-└── README.md          # Project documentation (this file)  
-```  
-
 ---
 
 ## 🤝 Contributing  
